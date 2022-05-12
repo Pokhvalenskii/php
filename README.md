@@ -1,2 +1,1 @@
-# veditaTest
-vedita test task
+PHP test task
